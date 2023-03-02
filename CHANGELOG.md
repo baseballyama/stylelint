@@ -1,5 +1,9 @@
 # Changelog
 
+## 15.3.0
+
+- Added: `selector-anb-no-unmatchable` rule ([#6678](https://github.com/stylelint/stylelint/pull/6678)) ([@mattxwang](https://github.com/mattxwang)).
+
 ## 15.2.0
 
 - Added: `messageArgs` to 76 rules ([#6589](https://github.com/stylelint/stylelint/pull/6589)) ([@kizu](https://github.com/kizu)).
